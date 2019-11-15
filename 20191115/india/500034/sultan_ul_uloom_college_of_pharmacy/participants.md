@@ -1,5 +1,5 @@
-<trainers>
-Abhishek Choudhary,obonac
-Dr Srija Katta,srija-ieee
-<participants>
-#Name,userid
+# Trainers
+--- Abhishek Choudhary,obonac
+--- Dr Srija Katta,srija-ieee
+# Participants
+(Name,userid)
