@@ -2,7 +2,8 @@
 What are the usually available doses of paracetamol?
 650 mg, 500mg, 
 What are the dosage forms available for paracetamol in the market?
-Tablets, Syrups, Powder
+Tablets, Suspensions, Powder, IV
 What is the chemical name of paracetamol ?
 acetaminophen
-
+what is the chemical formula of acetaminophen?
+C8H9NO2
