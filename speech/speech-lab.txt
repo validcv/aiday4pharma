@@ -1,0 +1,23 @@
+(Note: This expects you have created a fork of the validcv repo as mentioned in the reference document)
+
+$ git clone --recursive https://github.com/validcv/aiday4pharma
+(Note replace “validcv” with your specific username on github”
+
+$ cd aiday4pharma/speech/
+
+$ ./train-speech.sh srija-ieee
+(Note 1: Replace srija-ieee with your username.)
+(Note 2: Your dataset should be in a file with .txt extension)
+(Note 3: Do NOT use the .txt extension in the train and infer commands)
+(Note 4: You can train and experiment with all datasets available, but your task will be complete only if you have submitted your own dataset for the chatbot)
+
+$ ./infer-speech.sh srija-ieee
+(Note 1: Do NOT use the .txt extension in the train and infer commands)
+
+This completes your basic introduction to AI implementation tools; viz.
+
+Basics of Linux
+Familiarization with frameworks – you have used TensorFlow
+Familiarization with models – you have cloned and used the DeepQA project built on LSTM model for building your chatbot
+Dealing with datasets – you have created a conversation dataset and trained the DeepQA model on that
+You may also try other examples in Katacoda, but that is optional.
